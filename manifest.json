@@ -1,0 +1,9 @@
+{
+  "name": "Flood & Landslide Watch",
+  "short_name": "Risk Watch",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#08141f",
+  "theme_color": "#0b1f33",
+  "description": "Urban flood prediction and landslide risk monitoring for neighborhoods."
+}
